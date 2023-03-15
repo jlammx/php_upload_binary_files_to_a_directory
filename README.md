@@ -39,7 +39,7 @@ PHP provides built-in function **move_uploaded_file()** for uploading files to a
 
 ```php
 <?php
-    $targetDir = "uploads/";
+    $targetDir = "uploads";
     // Check if it is an array and if it has data
     if(is_array($_FILES) && !empty($_FILES["myfile"]["name"])) {
         // Validates that the uploaded file is not empty and is posted via the HTTP_POST method
