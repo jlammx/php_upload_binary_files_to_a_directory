@@ -12,9 +12,11 @@ This repository is an example of upload binary files to a specified directory vi
 ### What is a binary file?
 A binary file is a file whose content is in a binary format consisting of a series of sequential bytes, each of which is eight bits in length. The content must be interpreted by a program or a hardware processor that understands in advance exactly how that content is formatted and how to read the data. Binary files include a wide range of file types, including executables, libraries, graphics, databases, archives and many others.
 
+
+### Summary
 A binary file is a file that contains information in binary code, which means it is in a format that is not easily readable by humans. This type of file may be more efficient in terms of file size, as it does not need to be encoded or decoded for transfer and storage. However, binary files can be more difficult to handle and read for users, and some web browsers may not support viewing or downloading certain types of binary files or well the channel does not allow binary data for transmission.
 
-Overall, the best way to send a file over the web will depend on the file type, the purpose of the transfer, and user preferences. If data transfer efficiency is a priority, you may want to send a binary file. If readability and ease of use are more important, you may want to send an encoded file. In any case, it is important to ensure file transfer is secure and complies with applicable privacy and security policies and requirements.
+Overall, the best way to send a file over the web will depend on the file type, the purpose of the transfer, and user preferences. If data transfer efficiency is a priority, you may want to send a binary file. If readability and ease of use are more important, you may want to send an encoded file. In any case, it is important to ensure file transfer is secure and complies with applicable privacy and security policies and requirements. - Chat GPT
 
 
 ### Create HTML form
