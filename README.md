@@ -16,7 +16,7 @@ A binary file is a file whose content is in a binary format consisting of a seri
 ### Summary
 A binary file is a file that contains information in binary code, which means it is in a format that is not easily readable by humans. This type of file may be more efficient in terms of file size, as it does not need to be encoded or decoded for transfer and storage. However, binary files can be more difficult to handle and read for users, and some web browsers may not support viewing or downloading certain types of binary files or well the channel does not allow binary data for transmission.
 
-Overall, the best way to send a file over the web will depend on the file type, the purpose of the transfer, and user preferences. If data transfer efficiency is a priority, you may want to send a binary file. If readability and ease of use are more important, you may want to send an [encoded file](https://github.com/jlammx/php_upload_base64-encoded_binary_files_to_a_directory). In any case, it is important to ensure file transfer is secure and complies with applicable privacy and security policies and requirements. - Chat GPT
+Overall, the best way to send a file over the web will depend on the file type, the purpose of the transfer, and user preferences. If data transfer efficiency is a priority, you may want to send a [binary file](https://github.com/jlammx/php_upload_binary_files_to_a_directory). If readability and ease of use are more important, you may want to send an [encoded file](https://github.com/jlammx/php_upload_base64-encoded_binary_files_to_a_directory). In any case, it is important to ensure file transfer is secure and complies with applicable privacy and security policies and requirements. - Chat GPT
 
 
 ### Create HTML form
